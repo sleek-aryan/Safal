@@ -1,13 +1,13 @@
 # Safal
 
-#data
+#data/n
 first find data then process
 
-Unprocessed/
+Unprocessed/n
 mango
 potato
 corn/maize
 rice
 wheat
-
+/n
 Processed/

@@ -11,6 +11,8 @@ potato
 corn/maize
 rice
 wheat
+tea
+coffee
 
 #
 #Processed/
